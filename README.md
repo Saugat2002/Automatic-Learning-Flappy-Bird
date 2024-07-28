@@ -4,7 +4,7 @@
 This project focuses on showcasing the capabilities of PyOpenGL to create a dynamic and engaging game environment. While the original Flappy Bird game is 2D, this project takes it to the next dimension, introducing depth and perspective to the gameplay.
 
 ### Features
-* **3D Environment:** The game world is rendered in 3D, offering a more immersive and visually appealing experience.
+
 * **Realistic Physics:** The bird's flight and the obstacles' movements are simulated using basic physics principles for a more authentic feel.
 * **Dynamic Lighting:** The game incorporates lighting effects to create depth and atmosphere, enhancing the overall visual appeal.
 * **Camera Control:** Users can manipulate the camera angle to explore the 3D environment from different perspectives.
