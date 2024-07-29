@@ -26,13 +26,18 @@ This project focuses on showcasing the capabilities of PyOpenGL to create a dyna
    ```
    cd FlappyBird-Q-Learning
    ```
-
-3. To see the performance of the agent after it has learned, simply run the 'Flappy_Bird.py' file:
+   
+3. Navigate to the project directory:
    ```
-   python Flappy_Bird.py
+   cd FlappyBird-Q-Learning
    ```
 
-4. To play it yourself:
+4. Install all packages
+   ```
+   pip install -r requirements.py
+   ```
+
+5. To play it yourself:
    ```
    python main.py
    ```
